@@ -1,0 +1,11 @@
+# Demo auth log file for log-analyzer
+2025-12-15T14:02:31Z user=jordan ip=10.0.0.10 event=LOGIN_FAIL device=laptop
+2025-12-15T14:03:02Z user=jordan ip=10.0.0.10 event=LOGIN_FAIL device=laptop
+2025-12-15T14:03:33Z user=jordan ip=10.0.0.10 event=LOGIN_FAIL device=laptop
+2025-12-15T14:04:10Z user=jordan ip=10.0.0.10 event=LOGIN_FAIL device=laptop
+2025-12-15T14:04:55Z user=jordan ip=10.0.0.10 event=LOGIN_FAIL device=laptop
+2025-12-15T14:05:11Z user=jordan ip=10.0.0.10 event=LOGIN_SUCCESS device=laptop
+2025-12-15T14:06:03Z user=alana ip=172.16.0.5 event=LOGIN_SUCCESS device=phone
+2025-12-15T14:07:44Z user=alana ip=172.16.0.6 event=LOGIN_FAIL device=phone
+2025-12-15T14:09:12Z user=alana ip=172.16.0.6 event=LOGIN_SUCCESS device=phone
+2025-12-15T15:01:01Z user=marcus ip=192.168.1.25 event=LOGIN_FAIL device=desktop

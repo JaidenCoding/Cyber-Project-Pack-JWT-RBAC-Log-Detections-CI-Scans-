@@ -1,0 +1,13 @@
+com\example\secureapi\auth\dto\LoginResponse.class
+com\example\secureapi\audit\AuditLoggingFilter.class
+com\example\secureapi\api\ApiController.class
+com\example\secureapi\auth\dto\LoginRequest.class
+com\example\secureapi\security\SecurityConfig.class
+com\example\secureapi\SecureApiApplication.class
+com\example\secureapi\user\DemoUsersConfig.class
+com\example\secureapi\auth\AuthController.class
+com\example\secureapi\audit\AuditController.class
+com\example\secureapi\security\JwtAuthFilter.class
+com\example\secureapi\audit\AuditService.class
+com\example\secureapi\security\JwtService.class
+com\example\secureapi\audit\AuditEvent.class
