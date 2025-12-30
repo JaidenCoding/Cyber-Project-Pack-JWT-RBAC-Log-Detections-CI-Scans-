@@ -1,0 +1,19 @@
+# Maven / Java build output
+**/target/
+*.class
+
+# Logs
+**/*.log
+**/logs/
+
+# Test reports
+**/surefire-reports/
+
+# Archives
+*.zip
+
+# IDE/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

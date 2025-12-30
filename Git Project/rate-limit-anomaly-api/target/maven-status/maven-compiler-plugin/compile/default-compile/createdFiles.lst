@@ -1,8 +1,0 @@
-com\example\ratelimit\api\ApiExceptionHandler.class
-com\example\ratelimit\RateLimitFilter.class
-com\example\ratelimit\anomaly\AuthEvent.class
-com\example\ratelimit\anomaly\AnomalyService.class
-com\example\ratelimit\api\RateLimitExceededException.class
-com\example\ratelimit\PingController.class
-com\example\ratelimit\RateLimitAnomalyApiApplication.class
-com\example\ratelimit\anomaly\AnomalyController.class
